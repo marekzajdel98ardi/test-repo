@@ -4,5 +4,5 @@
 
 <div>Test div</div>
 
-<img src="http://url.to.filfdsafsdae.which/not.efdasasfdsfadfsdxist" onerror=alert(document.cookie);>
+<img src="http://url.to.filfdsafsdae.which/not.efdasasfdsfadfsdxist" onerror=alert("test xss!");>
 
